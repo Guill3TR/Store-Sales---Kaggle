@@ -1,2 +1,2 @@
-# Store-Sales---Kaggle
+# Store_Sales_Kaggle
 Store Sales - Time Series Forecasting
