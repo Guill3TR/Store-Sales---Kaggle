@@ -1,4 +1,4 @@
-# Store_Sales_Kaggle
+# Store_Sales
 
 Store Sales is a Kaggle dataset for beginning data scientists🛒. It is about predicting the sales of the thousands of product families sold in Favorita stores located in Ecuador🌎.
 
